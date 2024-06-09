@@ -17,7 +17,7 @@ const Login = () => {
         <GoogleOAuthProvider clientId="541861062148-uorqg9rm0iaeth07k3b78gcs882ckcpq.apps.googleusercontent.com">
             <div className="flex flex-row" >
                 <div className="max-sm:hidden flex flex-col justify-center items-center w-1/3 h-screen bg-black">
-                    <h1 className="text-white text-5xl font-bold">Board.</h1>
+                    <h1 className="text-white text-5xl font-bold">Board</h1>
                 </div>
                 <div className="flex flex-col justify-center items-center w-2/3 h-screen bg-gray-100">
                     <div className="p-1 w-2/3">
